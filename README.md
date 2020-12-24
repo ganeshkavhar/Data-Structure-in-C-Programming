@@ -1,5 +1,7 @@
 # Data-Structure-in-C-Programming
 
+![image](https://user-images.githubusercontent.com/20369800/103052308-da176080-45be-11eb-8387-7a2eabeb21d7.png)
+
 The term data structure is used to describe the way data is stored, and the term
 algorithm is used to describe the way data is processed. Data structures and
 algorithms are interrelated. Choosing a data structure affects the kind of algorithm
