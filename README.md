@@ -33,14 +33,15 @@ represents hierarchial relationship between individual data elements. Graphs are
 trees with certain restrictions removed.
 
 ## Data structures are divided into two types:
+
 ### Primitive data structures.
-### Non-primitive data structures. 
 
 Primitive Data Structures are the basic data structures that directly operate upon the
 machine instructions. They have different representations on different computers. Integers,
 floating point numbers, character constants, string constants and pointers come under this
 category.
 
+### Non-primitive data structures. 
 Non-primitive data structures are more complicated data structures and are derived from
 primitive data structures. They emphasize on grouping same or different data items with
 relationship between each data item. Arrays, lists and files come under this category. Figure
