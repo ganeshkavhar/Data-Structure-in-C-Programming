@@ -1,7 +1,5 @@
 # Data-Structure-in-C-Programming
 
-Basic Concepts
-
 The term data structure is used to describe the way data is stored, and the term
 algorithm is used to describe the way data is processed. Data structures and
 algorithms are interrelated. Choosing a data structure affects the kind of algorithm
@@ -21,7 +19,7 @@ is used to describe the way data is stored.
 To develop a program of an algorithm we should select an appropriate data structure for that
 algorithm. Therefore, data structure is represented as:
 
-Algorithm + Data structure = Program
+## Algorithm + Data structure = Program
 
 A data structure is said to be linear if its elements form a sequence or a linear list. The linear
 data structures like an array, stacks, queues and linked lists organize data in linear order. A
